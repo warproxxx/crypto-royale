@@ -1,4 +1,3 @@
 seleniumwire
 webdriver-manager
 numpy
-monkey
