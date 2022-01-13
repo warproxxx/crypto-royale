@@ -1,3 +1,4 @@
 seleniumwire
 webdriver-manager
 numpy
+2captcha-python
